@@ -1,1 +1,1 @@
-# bolinha-modos.
+# bolinha-modos
